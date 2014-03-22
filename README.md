@@ -22,7 +22,12 @@ Version
 
 1.0
 
-
+Requirements
+--------------
+* JDK 1.7+
+* Apache Tomcat 7+
+* MySQL Database 5.6+
+* (Optional) Netbeans IDE 7.3+
 
 Getting Started
 --------------
