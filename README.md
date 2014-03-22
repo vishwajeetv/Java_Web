@@ -1,4 +1,3 @@
-
 Java_Web
 ========
 
@@ -30,9 +29,10 @@ Getting Started
 
 1. Clone this repository OR 'Download Zip'
 2. Start Netbeans 7.3+, Menu -> File -> New Project -> Java Web -> Web Application with Existing Sources... Complete this wizard.
-3. Check out the servlet mapping in Deployement Descriptor (project folder/web/WEB-INF/web.xml )
-4. Check out database connection pool in (project folder/web/META-INF/context.xml )
-5. This project is built with MVC architecture with Servlets acting as Controllers and a seperate Data Model.
+3. Create Database (MySQL 5.6+) using (project folder/db_schema/java_web.sql)
+4. Check out the servlet mapping in Deployement Descriptor (project folder/web/WEB-INF/web.xml )
+5. Check out database connection pool in (project folder/web/META-INF/context.xml )
+6. This project is built with MVC architecture with Servlets acting as Controllers and a seperate Data Model.
 You can find them in  (project folder/src/java/controllers ) and  (project folder/src/java/models )
-6. You can figure out rest of the things by inspecting the code.
+7. You can figure out rest of the things by inspecting the code.
 Good luck! :-)
