@@ -35,7 +35,7 @@ Getting Started
 1. Clone this repository OR 'Download Zip'
 2. Start Netbeans 7.3+, Menu -> File -> New Project -> Java Web -> Web Application with Existing Sources... Complete this wizard.
 3. Create Database (MySQL 5.6+) using [Database Schema](db_schema/java_web.sql)
-4. Check out the servlet mapping in [Deployment Descriptor](web/WEB-INF/context.xml)
+4. Check out the servlet mapping in [Deployment Descriptor](web/WEB-INF/web.xml)
 5. Check out database connection pool in [Context Descriptor](web/META-INF/context.xml)
 6. This project is built with MVC architecture with Servlets acting as Controllers and a seperate Data Model.
 You can find them in  [Controllers](src/java/controllers) and  [Models](src/java/models)
