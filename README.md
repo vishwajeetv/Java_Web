@@ -40,6 +40,7 @@ Getting Started
 6. This project is built with MVC architecture with Servlets acting as Controllers and a seperate Data Model.
 You can find them in  [Controllers](src/java/controllers) and  [Models](src/java/models)
 7. You can figure out rest of the things by inspecting the code.
+8. Default Username: admin , default password: password
 Good luck! :-)
 
 Issue Reporting
